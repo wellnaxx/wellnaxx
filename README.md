@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/wellnaxx">
-        <img src="https://img.shields.io/badge/GitHub-wellnaxx-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-    </a> 
-    <img src="https://img.shields.io/badge/Python-Developer-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-Backend-0f766e?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML%2FCSS%2FJinja2-Frontend_Experience-e34f26?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Video_Editing-Semi--Professional-a855f7?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-</p> 
+  <a href="https://github.com/wellnaxx">
+    <img src="https://img.shields.io/badge/GitHub-wellnaxx-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Python-Developer-1f6feb?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-0f766e?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS%2FJinja2-Frontend_Experience-e34f26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Video_Editing-Semi--Professional-a855f7?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+</p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&vCenter=true&width=760&lines=Building+clean+and+practical+software;Backend+development+with+Python+and+FastAPI;Frontend+work+with+HTML%2C+CSS%2C+and+Jinja2;Semi-professional+video+editing+for+almost+8+years" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C9D1D9&center=true&vCenter=true&width=760&lines=Building+clean+and+practical+software;Backend+development+with+Python+and+FastAPI;Frontend+work+with+HTML%2C+CSS%2C+and+Jinja2;Semi-professional+video+editing+for+almost+8+years" />
 </p>
 
 ---
@@ -79,31 +79,29 @@ I like building projects that feel clean, useful, and polished — both technica
 
 ## 📌 Featured Projects
 
-### 🏋️ Fitness Performance Tracker *(in development)*
+### 🏋️ [Fitness Performance Tracker](https://github.com/wellnaxx/Fitness-Performance-Tracker) *(in development)*
 A full-stack fitness tracking application designed to help users monitor training, nutrition, body progress, analytics, personal records, and long-term consistency.
 
 **Tech Stack:** Python · FastAPI · PostgreSQL · HTML · CSS · Jinja2  
 **Highlights:** Workout and nutrition logging, performance analytics, PR tracking, progress monitoring, and a structured full-stack architecture.
 
-### 🎬 Secure Movie Library
+### 🎬 [Secure Movie Library](https://github.com/wellnaxx/Secure-Movie-Library)
 A backend-driven movie management application that stores movie collections and enriches them with external rating and metadata sources.
 
 **Tech Stack:** Python · FastAPI · MariaDB · OMDb API  
 **Highlights:** Asynchronous external API integration, data enrichment workflows, clean model design, and practical backend structure.
 
-### 🚗 RevTalk Forum
+### 🚗 [RevTalk Forum](https://github.com/wellnaxx/RevTalk-Forum)
 An automotive forum platform built to support discussions, community interaction, and content organization through both APIs and server-rendered pages.
 
 **Tech Stack:** Python · FastAPI · MariaDB · Jinja2 · HTML · CSS  
 **Highlights:** REST API endpoints, server-side rendering, forum-style content structure, relational data modeling, and clean separation of concerns.
 
-### 🚚 FleetFlow *(in development)*
+### 🚚 [FleetFlow](https://github.com/wellnaxx/FleetFlow) *(in development)*
 A logistics and shipment management platform focused on tracking, operational structure, and route-related backend workflows.
 
-**Tech Stack:** Python, FastAPI, PostgreSQL  
+**Tech Stack:** Python · FastAPI · PostgreSQL  
 **Highlights:** Shipment tracking, logistics-oriented data flows, backend system design, and a project structure aimed at real-world use cases.
-
-
 
 ---
 
@@ -122,7 +120,6 @@ That same mindset carries over into my development work — I like building thin
 
 ---
 
-
 ## 🎯 Currently
 
 - 🔨 Building the **Fitness Performance Tracker**, a full-stack application for workouts, nutrition, body progress, analytics, and PR tracking
@@ -131,7 +128,6 @@ That same mindset carries over into my development work — I like building thin
 - 🎨 Expanding my frontend experience through **HTML**, **CSS**, and **Jinja2**
 - 🌍 Open to **junior backend, data, or analytics opportunities** — available for **remote roles worldwide** and **hybrid or on-site roles in Bulgaria**
 - 📈 I build each project to be more advanced than the previous one, with a strong focus on growth and progression
-
 
 ---
 
@@ -149,6 +145,14 @@ That same mindset carries over into my development work — I like building thin
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wellnaxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=wellnaxx&type=languages&theme=tokyonight&chart=bars" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wellnaxx&theme=tokyonight&hide_border=true" />
