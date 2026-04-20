@@ -24,6 +24,8 @@
 
 I'm a developer focused on building practical software with **Python**, especially **backend systems**, **APIs**, and **database-driven applications**.
 
+I’ve also completed the **Alpha Python Track at Telerik Academy**, where I strengthened my programming fundamentals and practical development skills through hands-on work.
+
 I also have some **frontend experience**, mainly with **HTML**, **CSS**, and **Jinja2 templates**, which helps me build projects with a better eye for structure, usability, and presentation.
 
 Outside development, I also work on **video editing and content creation**, and I’ve been doing it for almost **8 years**. It’s a big part of my creative side and has shaped how I think about pacing, structure, detail, and presentation.
