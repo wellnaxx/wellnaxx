@@ -87,6 +87,12 @@ A full-stack fitness tracking application designed to help users monitor trainin
 **Tech Stack:** Python · FastAPI · PostgreSQL · HTML · CSS · Jinja2  
 **Highlights:** Workout and nutrition logging, performance analytics, PR tracking, progress monitoring, and a structured full-stack architecture.
 
+### 🚚 [FleetFlow](https://github.com/wellnaxx/FleetFlow) *(in development)*
+A logistics and shipment management platform focused on tracking, operational structure, and route-related backend workflows.
+
+**Tech Stack:** Python · FastAPI · PostgreSQL  
+**Highlights:** Shipment tracking, logistics-oriented data flows, backend system design, and a project structure aimed at real-world use cases.
+
 ### 🎬 [Secure Movie Library](https://github.com/wellnaxx/Secure-Movie-Library)
 A backend-driven movie management application that stores movie collections and enriches them with external rating and metadata sources.
 
@@ -99,11 +105,6 @@ An automotive forum platform built to support discussions, community interaction
 **Tech Stack:** Python · FastAPI · MariaDB · Jinja2 · HTML · CSS  
 **Highlights:** REST API endpoints, server-side rendering, forum-style content structure, relational data modeling, and clean separation of concerns.
 
-### 🚚 [FleetFlow](https://github.com/wellnaxx/FleetFlow) *(in development)*
-A logistics and shipment management platform focused on tracking, operational structure, and route-related backend workflows.
-
-**Tech Stack:** Python · FastAPI · PostgreSQL  
-**Highlights:** Shipment tracking, logistics-oriented data flows, backend system design, and a project structure aimed at real-world use cases.
 
 ---
 
