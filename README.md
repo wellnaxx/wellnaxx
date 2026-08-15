@@ -126,7 +126,7 @@ That same mindset carries over into my development work — I like building thin
 ## 🎯 Currently
 
 - 🔨 Building the **Fitness Performance Tracker**, a full-stack application for workouts, nutrition, body progress, analytics, and PR tracking
-- ♻️ Refactoring my **Logistics App** to make the architecture cleaner, more scalable, and easier to maintain
+- 🚀 The massive refactor of my **Logistics App** is complete! Now focused on building and adding new features on top of a cleaner, more scalable, and maintainable architecture
 - 🌱 Improving my backend skills with **Python**, **FastAPI**, **PostgreSQL**, and **MariaDB**
 - 🎨 Expanding my frontend experience through **HTML**, **CSS**, and **Jinja2**
 - 🌍 Open to **junior backend, data, or analytics opportunities** — available for **remote roles worldwide** and **hybrid or on-site roles in Bulgaria**
