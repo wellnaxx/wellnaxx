@@ -129,6 +129,7 @@ That same mindset carries over into my development work — I like building thin
 - 🚀 The massive refactor of my **Logistics App** is complete! Now focused on building and adding new features on top of a cleaner, more scalable, and maintainable architecture
 - 🌱 Improving my backend skills with **Python**, **FastAPI**, **PostgreSQL**, and **MariaDB**
 - 🎨 Expanding my frontend experience through **HTML**, **CSS**, and **Jinja2**
+- ⚛️ Planning to learn **TypeScript** and **React**
 - 🌍 Open to **junior backend, data, or analytics opportunities** — available for **remote roles worldwide** and **hybrid or on-site roles in Bulgaria**
 - 📈 I build each project to be more advanced than the previous one, with a strong focus on growth and progression
 
